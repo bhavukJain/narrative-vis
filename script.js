@@ -2,7 +2,7 @@
 let selectedYear = null;
 let selectedPlayer = null;
 
-const dataURL = 'https://github.com/bhavukJain/narrative-vis/blob/main/mlb-stats.csv';
+const dataURL = 'https://raw.githubusercontent.com/bhavukJain/narrative-vis/main/mlb-stats.csv';
 
 fetch(dataURL)
     .then(response => response.text())
