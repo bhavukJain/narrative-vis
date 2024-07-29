@@ -1,8 +1,8 @@
-# Narrative Visualization of MLB Batting Performance
+# Narrative Visualization of MLB 
 > University of Illinois Urbana-Champaign | CS 416 - Data Visualization
 
 ## Messaging
-This narrative visualization's purpose is to offer a perceptive examination of Major League Baseball's (MLB) batting statistics ranging from 2015 to 2023. It intends to display the average 'On base percentage' among qualified batters per year in the overview scene, let users dive down into certain years to see the correlation between players' swing percentage and on base percentage, and provide a more in-depth analysis of the performance of specific players.
+This narrative visualization's purpose is to offer a perceptive examination of Major League Baseball's (MLB) on base percentage statistics ranging from 2015 to 2023. It intends to display the average 'On base percentage' among qualified batters per year in the overview scene, let users dive down into certain years to see the correlation between players' swing percentage and on base percentage, and provide a more in-depth analysis of the performance of specific players.
 
 ## Narrative Structure
 Users can switch between many scenes thanks to the drill-down story format that the narrative visualization implemented in this project. The visualization opens with an overview scenario that uses a bar chart to show the on base percentage by year, which highlights a consistent trend over the years. Users can then use the bar chart to delve further into a particular year to examine batting statistics. Finally, they can choose a specific player to view the walk percentage for that player.
